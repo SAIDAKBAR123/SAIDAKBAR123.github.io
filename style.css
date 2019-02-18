@@ -1,8 +1,9 @@
 body{
    font-family:  Arial;
+    word-spacing: 2px;
     font-size: 20px;
     margin-left: 5%;
-    background:  rgba(54, 21, 21, 0.68);
+    background:  rgba(0, 0, 0, 0.84);
     
 }
 h1, h2{
@@ -27,8 +28,11 @@ p img{
     border-radius: 5px;
 }
 p{
-    color: black;
+    color: #ffffff;
 }
 p strong{
     color:#58ff00;
+}
+ul li{
+    color: white;
 }
